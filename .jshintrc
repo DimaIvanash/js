@@ -1,0 +1,12 @@
+{
+"camelcase": true,
+"indent": 2,
+"undef": true,
+"quotrark": 88,
+"trailing": true,
+"curly": true,
+"strict": false,
+"browser": true,
+"jquery": true,
+"esversion": 6
+}
